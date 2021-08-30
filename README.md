@@ -3,22 +3,50 @@
 A collection of great tools for development.
 Not language specific. Single binary only.
 
-## Static web servers
+## Count lines of code
 
-Tools to get a static web server really quickly
+- https://github.com/XAMPPRocky/tokei
 
-- https://github.com/weihanglo/sfz
-- https://github.com/wyhaya/see
+## Docker releated
+
+- https://github.com/earthly/earthly
+- https://github.com/ufoscout/docker-compose-wait
+- https://github.com/stepchowfun/toast
+
+## Dot file management
+
+- https://www.chezmoi.io/
+- https://github.com/IsaccBarker/Greatness
+
+## Editor configuration
+
+- https://editorconfig.org/
+
+## Environment version manager
+
+- https://github.com/asdf-vm/asdf
+
+## Environment variables
+
+- https://direnv.net/
 
 ## File watchers
 
 Re-run processes based on file changes
+
+- https://github.com/watchexec/watchexec
+- https://github.com/grego/caretaker
+
+## Git
+
+- https://github.com/extrawurst/gitui
 
 ## Multi process managers
 
 Start and stop multiple processes with one command
 
 - https://github.com/DarthSim/hivemind
+- https://github.com/DarthSim/overmind
 
 ## Query Json / Yaml
 
@@ -27,28 +55,47 @@ Start and stop multiple processes with one command
 
 ## Search code
 
+- https://github.com/comby-tools/comby
+- https://github.com/lotabout/skim
+
+## Shells
+
+- https://github.com/nushell/nushell
+- https://github.com/starship/starship (prompt)
+
 ## Standalone database migrations
 
 - https://github.com/amacneil/dbmate
 - https://github.com/golang-migrate/migrate
+- https://github.com/rubenv/sql-migrate
 
-## Genaral purpose static analyzers
+## Static source code analyzers
 
 - https://github.com/returntocorp/semgrep
 
-## Dot file management
+## Static web servers
 
-- https://www.chezmoi.io/
-- https://github.com/IsaccBarker/Greatness
+Tools to get a static web server really quickly
 
-## Windows tile managers
+- https://github.com/weihanglo/sfz
+- https://github.com/wyhaya/see
+- https://github.com/m3ng9i/ran
+- https://github.com/cortesi/devd
 
-- https://github.com/zellij-org/zellij
+## Task runners
 
-## Docker releated
+- https://github.com/casey/just
 
-https://github.com/earthly/earthly
+## Terminal commands replacements
+
+- https://github.com/ajeetdsouza/zoxide (Replacement for cd)
+- https://github.com/imsnif/bandwhich (Replacement for top)
+- https://github.com/cantino/mcfly (Shell history)
 
 ## Terminal recorders
 
 - https://github.com/sassman/t-rec-rs
+
+## Windows tile managers
+
+- https://github.com/zellij-org/zellij
