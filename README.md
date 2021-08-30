@@ -81,6 +81,8 @@ Tools to get a static web server really quickly
 - https://github.com/wyhaya/see
 - https://github.com/m3ng9i/ran
 - https://github.com/cortesi/devd
+- https://github.com/mufeedvh/binserve
+- https://github.com/svenstaro/miniserve
 
 ## Task runners
 
@@ -89,8 +91,11 @@ Tools to get a static web server really quickly
 ## Terminal commands replacements
 
 - https://github.com/ajeetdsouza/zoxide (Replacement for cd)
-- https://github.com/imsnif/bandwhich (Replacement for top)
+- https://github.com/BurntSushi/ripgrep (Replacement for grep)
 - https://github.com/cantino/mcfly (Shell history)
+- https://github.com/imsnif/bandwhich (Replacement for top)
+- https://github.com/ogham/exa (Replacement for ls)
+- https://github.com/sharkdp/fd (Replacement for find)
 
 ## Terminal recorders
 
