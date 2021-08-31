@@ -57,6 +57,7 @@ Start and stop multiple processes with one command
 
 - https://github.com/comby-tools/comby
 - https://github.com/lotabout/skim
+- https://github.com/BrianHicks/tree-grepper
 
 ## Shells
 
