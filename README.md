@@ -1,6 +1,6 @@
-# Awesome Dev Tools
+# Awesome CLI Dev Tools
 
-A collection of great tools for development.
+A collection of great CLI tools for development.
 Not language specific. Single binary only.
 
 ## Count lines of code
