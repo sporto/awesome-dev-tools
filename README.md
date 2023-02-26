@@ -41,6 +41,10 @@ Re-run processes based on file changes
 
 - https://github.com/extrawurst/gitui
 
+## Http
+
+- https://github.com/Orange-OpenSource/hurl
+
 ## Multi process managers
 
 Start and stop multiple processes with one command
@@ -52,6 +56,10 @@ Start and stop multiple processes with one command
 
 - https://github.com/TomWright/dasel
 - https://github.com/yamafaktory/jql
+
+## Query Data (CSV, Parquet)
+
+- https://github.com/duckdb/duckdb
 
 ## Search code
 
