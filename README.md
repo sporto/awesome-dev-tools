@@ -30,6 +30,10 @@ Not language specific. Single binary only.
 
 - https://direnv.net/
 
+## File managers
+
+- https://github.com/kamiyaa/joshuto
+
 ## File watchers
 
 Re-run processes based on file changes
